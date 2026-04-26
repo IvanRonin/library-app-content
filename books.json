@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "title_ru": "Мастер и Маргарита",
+      "title_en": "The Master and Margarita",
+      "author_ru": "Михаил Булгаков",
+      "author_en": "Mikhail Bulgakov",
+      "desc_ru": "Сатирический роман о визите дьявола в советскую Москву.",
+      "desc_en": "A satirical novel about the Devil's visit to Soviet Moscow.",
+      "url": "https://www.litres.ru/book/mihail-bulgakov/master-i-margarita-182640/",
+      "cover": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+      "olKey": "OL8068926W",
+      "gutenbergId": 0
+    },
+    {
+      "title_ru": "1984",
+      "title_en": "1984",
+      "author_ru": "Джордж Оруэлл",
+      "author_en": "George Orwell",
+      "desc_ru": "Антиутопия о тоталитарном обществе, где Большой Брат следит за каждым.",
+      "desc_en": "A dystopia about a totalitarian society where Big Brother watches everyone.",
+      "url": "https://www.litres.ru/book/dzhordzh-oruell/1984-82735/",
+      "cover": "https://covers.openlibrary.org/b/id/8575111-L.jpg",
+      "olKey": "OL1168007W",
+      "gutenbergId": 0
+    },
+    {
+      "title_ru": "Преступление и наказание",
+      "title_en": "Crime and Punishment",
+      "author_ru": "Фёдор Достоевский",
+      "author_en": "Fyodor Dostoevsky",
+      "desc_ru": "Психологический роман о студенте, совершившем убийство.",
+      "desc_en": "A psychological novel about a student who commits murder.",
+      "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
+      "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
+      "olKey": "OL166894W",
+      "gutenbergId": 2554
+    },
+    {
+      "title_ru": "Маленький принц",
+      "title_en": "The Little Prince",
+      "author_ru": "Антуан де Сент-Экзюпери",
+      "author_en": "Antoine de Saint-Exupéry",
+      "desc_ru": "Философская сказка для взрослых о смысле жизни.",
+      "desc_en": "A philosophical tale about the meaning of life.",
+      "url": "https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-5523/",
+      "cover": "https://covers.openlibrary.org/b/id/8739241-L.jpg",
+      "olKey": "OL14908637W",
+      "gutenbergId": 525
+    },
+    {
+      "title_ru": "Война и мир",
+      "title_en": "War and Peace",
+      "author_ru": "Лев Толстой",
+      "author_en": "Leo Tolstoy",
+      "desc_ru": "Эпический роман об эпохе наполеоновских войн.",
+      "desc_en": "An epic novel set during the Napoleonic Wars.",
+      "url": "https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-5859/",
+      "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
+      "olKey": "OL267851W",
+      "gutenbergId": 2600
+    }
+  ]
+}
