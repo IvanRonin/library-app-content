@@ -11,7 +11,7 @@
       "url": "https://www.litres.ru/book/mihail-bulgakov/master-i-margarita-182640/",
       "cover": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
       "olKey": "OL8068926W",
-      "excerptUrl": "https://lib.ru/BULGAKOW/master.txt_Ascii.txt"
+      "excerptUrl": "https://raw.githubusercontent.com/thefalken/re-falken-fountain/master/fountain-common/src/test/resources/texts/master_i_margarita.txt"
     },
     {
       "title_ru": "1984",
@@ -35,7 +35,7 @@
       "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
       "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
       "olKey": "OL166894W",
-      "excerptUrl": "http://az.lib.ru/d/dostoewskij_f_m/text_0060.shtml"
+      "excerptUrl": "http://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt"
     },
     {
       "title_ru": "Маленький принц",
