@@ -27,4 +27,39 @@
     },
     {
       "title_ru": "Преступление и наказание",
-      "title_en": "Crime and Punishme
+      "title_en": "Crime and Punishment",
+      "author_ru": "Фёдор Достоевский",
+      "author_en": "Fyodor Dostoevsky",
+      "desc_ru": "Психологический роман о студенте, совершившем убийство, и его нравственных терзаниях.",
+      "desc_en": "A psychological novel about a student who commits murder and his moral torment.",
+      "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
+      "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
+      "olKey": "OL166894W",
+      "excerptUrl": "http://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt"
+    },
+    {
+      "title_ru": "Маленький принц",
+      "title_en": "The Little Prince",
+      "author_ru": "Антуан де Сент-Экзюпери",
+      "author_en": "Antoine de Saint-Exupéry",
+      "desc_ru": "Философская сказка для взрослых о смысле жизни, дружбе и любви.",
+      "desc_en": "A philosophical tale for adults about the meaning of life, friendship and love.",
+      "url": "https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-5523/",
+      "cover": "https://covers.openlibrary.org/b/id/8739241-L.jpg",
+      "olKey": "OL14908637W",
+      "excerptUrl": "http://lib.ru/EKZUPERY/malysh.txt"
+    },
+    {
+      "title_ru": "Война и мир",
+      "title_en": "War and Peace",
+      "author_ru": "Лев Толстой",
+      "author_en": "Leo Tolstoy",
+      "desc_ru": "Эпический роман об эпохе наполеоновских войн, охватывающий судьбы сотен персонажей.",
+      "desc_en": "An epic novel set during the Napoleonic Wars, following the fates of hundreds of characters.",
+      "url": "https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-5859/",
+      "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
+      "olKey": "OL267851W",
+      "excerptUrl": "http://lib.ru/LITRA/TOLSTOJ/vojna_i_mir1.txt"
+    }
+  ]
+}
