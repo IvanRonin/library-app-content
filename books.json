@@ -35,7 +35,7 @@
       "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
       "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
       "olKey": "OL166894W",
-      "gutenbergId": 2554
+      "gutenbergId": 38241
     },
     {
       "title_ru": "Маленький принц",
@@ -47,7 +47,7 @@
       "url": "https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-5523/",
       "cover": "https://covers.openlibrary.org/b/id/8739241-L.jpg",
       "olKey": "OL14908637W",
-      "gutenbergId": 525
+      "gutenbergId": 17848
     },
     {
       "title_ru": "Война и мир",
@@ -59,7 +59,7 @@
       "url": "https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-5859/",
       "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
       "olKey": "OL267851W",
-      "gutenbergId": 2600
+      "gutenbergId": 7284 
     }
   ]
 }
