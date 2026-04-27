@@ -11,7 +11,7 @@
       "url": "https://www.litres.ru/book/mihail-bulgakov/master-i-margarita-182640/",
       "cover": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
       "olKey": "OL8068926W",
-      "excerptUrl": "http://lib.ru/BULGAKOW/master.txt"
+      "excerptUrl": "http://lib.ru/BULGAKOW/master.txt_Ascii.txt"
     },
     {
       "title_ru": "1984",
@@ -23,7 +23,7 @@
       "url": "https://www.litres.ru/book/dzhordzh-oruell/1984-82735/",
       "cover": "https://covers.openlibrary.org/b/id/8575111-L.jpg",
       "olKey": "OL1168007W",
-      "excerptUrl": "http://lib.ru/ORWELL/1984.txt"
+      "excerptUrl": "http://lib.ru/ORWELL/1984.txt_Ascii.txt"
     },
     {
       "title_ru": "Преступление и наказание",
@@ -35,7 +35,7 @@
       "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
       "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
       "olKey": "OL166894W",
-      "excerptUrl": "http://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt"
+      "excerptUrl": "http://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt_Ascii.txt"
     },
     {
       "title_ru": "Маленький принц",
@@ -47,7 +47,7 @@
       "url": "https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-5523/",
       "cover": "https://covers.openlibrary.org/b/id/8739241-L.jpg",
       "olKey": "OL14908637W",
-      "excerptUrl": "http://lib.ru/EKZUPERY/malysh.txt"
+      "excerptUrl": "http://lib.ru/EKZUPERY/malysh.txt_Ascii.txt""
     },
     {
       "title_ru": "Война и мир",
@@ -59,7 +59,7 @@
       "url": "https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-5859/",
       "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
       "olKey": "OL267851W",
-      "excerptUrl": "http://lib.ru/LITRA/TOLSTOJ/vojna_i_mir1.txt"
+      "excerptUrl": "http://lib.ru/LITRA/TOLSTOJ/vojna_i_mir1.txt_Ascii.txt"
     }
   ]
 }
