@@ -23,7 +23,7 @@
       "url": "https://www.litres.ru/book/dzhordzh-oruell/1984-82735/",
       "cover": "https://covers.openlibrary.org/b/id/8575111-L.jpg",
       "olKey": "OL1168007W",
-      "excerptUrl": "https://lib.ru/ORWELL/1984.txt_Ascii.txt"
+      "excerptUrl": "http://lib.ru/ORWELL/r1984.txt"
     },
     {
       "title_ru": "Преступление и наказание",
@@ -35,7 +35,7 @@
       "url": "https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-167246/",
       "cover": "https://covers.openlibrary.org/b/id/8739004-L.jpg",
       "olKey": "OL166894W",
-      "excerptUrl": "https://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt_Ascii.txt"
+      "excerptUrl": "http://lib.ru/DOSTOYEWSKIJ/prestuplenie.txt"
     },
     {
       "title_ru": "Маленький принц",
