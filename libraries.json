@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "libraries": [
+    {
+      "name_ru": "ЛитРес",
+      "name_en": "LitRes",
+      "desc_ru": "Крупнейший российский магазин электронных и аудиокниг. Более 1 млн книг.",
+      "desc_en": "Russia's largest e-book and audiobook store. Over 1 million titles.",
+      "url": "https://www.litres.ru",
+      "logo": "https://www.google.com/s2/favicons?domain=litres.ru&sz=64"
+    },
+    {
+      "name_ru": "Библиотека Мошкова",
+      "name_en": "Moshkov's Library",
+      "desc_ru": "Старейшая бесплатная русскоязычная онлайн-библиотека. Тысячи книг в свободном доступе.",
+      "desc_en": "The oldest free Russian-language online library. Thousands of books freely available.",
+      "url": "http://lib.ru",
+      "logo": "https://www.google.com/s2/favicons?domain=lib.ru&sz=64"
+    },
+    {
+      "name_ru": "Royallib",
+      "name_en": "Royallib",
+      "desc_ru": "Бесплатная онлайн-библиотека с удобным поиском и большой коллекцией литературы.",
+      "desc_en": "Free online library with convenient search and a large collection of books.",
+      "url": "https://royallib.com",
+      "logo": "https://www.google.com/s2/favicons?domain=royallib.com&sz=64"
+    },
+    {
+      "name_ru": "Флибуста",
+      "name_en": "Flibusta",
+      "desc_ru": "Народная библиотека с огромным архивом книг в форматах FB2, EPUB, MOBI.",
+      "desc_en": "A community library with a huge archive of books in FB2, EPUB and MOBI formats.",
+      "url": "https://flibusta.is",
+      "logo": "https://www.google.com/s2/favicons?domain=flibusta.is&sz=64"
+    },
+    {
+      "name_ru": "Project Gutenberg",
+      "name_en": "Project Gutenberg",
+      "desc_ru": "Международный проект с более чем 70 000 бесплатных книг, преимущественно классика.",
+      "desc_en": "An international project with over 70,000 free e-books, mostly classics.",
+      "url": "https://www.gutenberg.org",
+      "logo": "https://www.google.com/s2/favicons?domain=gutenberg.org&sz=64"
+    },
+    {
+      "name_ru": "Bookmate",
+      "name_en": "Bookmate",
+      "desc_ru": "Сервис подписки на книги с большой русскоязычной коллекцией и удобной читалкой.",
+      "desc_en": "A book subscription service with a large Russian-language collection.",
+      "url": "https://bookmate.ru",
+      "logo": "https://www.google.com/s2/favicons?domain=bookmate.ru&sz=64"
+    },
+    {
+      "name_ru": "Читай-город",
+      "name_en": "Chitai-Gorod",
+      "desc_ru": "Крупная сеть книжных магазинов с онлайн-каталогом и доставкой по России.",
+      "desc_en": "A large Russian bookstore chain with an online catalog and delivery.",
+      "url": "https://www.chitai-gorod.ru",
+      "logo": "https://www.google.com/s2/favicons?domain=chitai-gorod.ru&sz=64"
+    }
+  ]
+}
