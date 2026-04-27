@@ -47,7 +47,7 @@
       "url": "https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-5523/",
       "cover": "https://covers.openlibrary.org/b/id/8739241-L.jpg",
       "olKey": "OL14908637W",
-      "excerptUrl": "https://lib.ru/EKZUPERY/malysh.txt_Ascii.txt"
+      "excerptUrl": "http://lib.ru/EKZUPERY/malyj_princ.txt"
     },
     {
       "title_ru": "Война и мир",
@@ -59,7 +59,7 @@
       "url": "https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-5859/",
       "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
       "olKey": "OL267851W",
-      "excerptUrl": "https://lib.ru/LITRA/TOLSTOJ/vojna_i_mir1.txt_Ascii.txt"
+      "excerptUrl": "http://lib.ru/TOLSTOJ/warandp1.txt"
     }
   ]
 }
