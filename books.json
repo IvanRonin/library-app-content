@@ -60,6 +60,18 @@
       "cover": "https://covers.openlibrary.org/b/id/8739521-L.jpg",
       "olKey": "OL267851W",
       "excerptUrl": "https://lib.ru/LITRA/TOLSTOJ/vojna_i_mir1.txt_Ascii.txt"
+    },
+    {
+      "title_ru": "Мастер веры в себя",
+      "title_en": "Master of Self-Belief",
+      "author_ru": "Артур Спароу",
+      "author_en": "Arthur Sparrow",
+      "desc_ru": "Практическое руководство по развитию внутренней уверенности, преодолению страхов и достижению поставленных целей через работу с мышлением.",
+      "desc_en": "A practical guide to developing self-confidence, overcoming fears, and achieving goals through mindset transformation.",
+      "url": "https://www.litres.ru/book/artur-sparou/master-very-v-sebya-63725515/",
+      "cover": "https://covers.openlibrary.org/b/id/1234567-L.jpg",
+      "olKey": "OL2456789W",
+      "excerptUrl": "https://example.com/sparrow_excerpt.txt"
     }
   ]
 }
